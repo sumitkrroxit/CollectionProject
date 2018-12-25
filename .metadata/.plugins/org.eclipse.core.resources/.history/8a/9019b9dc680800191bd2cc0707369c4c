@@ -1,0 +1,11 @@
+package org.collection.test;
+
+public class Databin {
+
+	public Databin() {
+		int id;
+		String name;
+		
+ 	}
+
+}

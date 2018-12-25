@@ -1,0 +1,9 @@
+package org.collection.test;
+
+public class Databin {
+
+	public Databin() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

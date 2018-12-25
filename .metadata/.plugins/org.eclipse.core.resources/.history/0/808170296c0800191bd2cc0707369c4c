@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package org.collection.test;
+
+/**
+ * @author Spiderwings
+ *
+ */
+public class Showroom {
+
+	/**
+	 * 
+	 */
+	public Showroom() {
+		System.out.println();
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		System.out.println("Main");
+		Factory f1 = new Factory(1, "Sumit Kumar");
+
+	}
+
+}

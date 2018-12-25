@@ -1,0 +1,12 @@
+package org.collection.test;
+
+public class Factory {
+
+	public Factory(int id, String name) {
+		Databin databin = new Databin();
+		databin.setId(id);
+		databin.setName(name);
+	
+	}
+
+}

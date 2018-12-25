@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package org.collection.test;
+
+/**
+ * @author Spiderwings
+ *
+ */
+public class Showroom {
+
+	/**
+	 * 
+	 */
+	public Showroom() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+			
+
+	}
+
+}

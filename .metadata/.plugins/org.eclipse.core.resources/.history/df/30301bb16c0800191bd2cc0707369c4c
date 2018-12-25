@@ -1,0 +1,24 @@
+package org.collection.test;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+public class Factory {
+
+	public Factory(int id, String name) {
+		List<Databin> al=new ArrayList<Databin>();
+		testCall();
+	}
+
+	private void testCall() {
+		
+		  	
+		Databin databin = new Databin();
+		databin.setId(id);
+		databin.setName(name);
+		
+		al.add(databin);
+
+	}
+}
